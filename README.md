@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakhyat Pandey</h1>
 <h3 align="center">CyberSecurity Enthusiastic✨</h3>
 
-<img align="right" alt="Hacking" width="500" src="https://www.bing.com/images/search?view=detailV2&ccid=nW3GkTYZ&id=5A3D6026D3323FADBC08ABBD2A2A93EAB147F848&thid=OIP.nW3GkTYZEskYIwnqjMvHGQHaEN&mediaurl=https%3a%2f%2fmir-s3-cdn-cf.behance.net%2fproject_modules%2fdisp%2f2bbf3a52005319.5901123c114f4.gif&exph=335&expw=590&q=offensive+security++hacking+gif&simid=608044001106687732&FORM=IRPRST&ck=CD4C4B4AB8FB4C5EDFA785FF53C8F79F&selectedIndex=76&itb=0">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhyatpandey7167&label=Profile%20views&color=0e75b6&style=flat" alt="prakhyatpandey7167" /> </p>
 
@@ -22,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhyatpandey7167&show_icons=true&locale=en" alt="prakhyatpandey7167" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhyatpandey7167&" alt="prakhyatpandey7167" /></p>
+
